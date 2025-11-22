@@ -105,12 +105,13 @@ Key Observations
 
 📂 Project Structure
 
-├── screenshots/
-│   ├── icmp.png
-│   ├── arp.png
-│   ├── tcp.png
-│   └── dns.png
-└── README.md
+project1-wireshark/
+├── README.md
+└── screenshots/
+├── icmp.png
+├── arp.png
+├── tcp.png
+└── dns.png
 
 
 
