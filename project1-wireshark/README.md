@@ -102,16 +102,17 @@ Key Observations
 	•Demonstrates real world name resolution workflow
 
 
-
 📂 Project Structure
 
+\`\`\`
 project1-wireshark/
 ├── README.md
 └── screenshots/
-├── icmp.png
-├── arp.png
-├── tcp.png
-└── dns.png
+    ├── icmp.png
+    ├── arp.png
+    ├── tcp.png
+    └── dns.png
+\`\`\`
 
 
 
