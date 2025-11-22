@@ -29,8 +29,6 @@ Packet capture tool	Wireshark (Kali)
 Network mode	Bridged / local network
 
 
-
-
 🔧 Tools Used
 	•	Wireshark
 	•	ping, arp, nslookup / dig
@@ -115,7 +113,6 @@ Key Observations
 └── README.md
 
 
-⸻
 
 💡 Skills Demonstrated
 
@@ -127,7 +124,6 @@ Key Observations
 ✔ Virtual lab setup and configuration
 ✔ Documentation and reporting
 
-⸻
 
 📌 Conclusion
 
@@ -135,7 +131,6 @@ This project validates core cybersecurity skills through hands on analysis of ne
 Using a fully virtualised lab, various essential network protocols were captured, inspected and documented.
 These foundations are crucial for Security Operations Centre (SOC) roles, incident analysis and general cybersecurity work in Australia.
 
-⸻
 
 🏷️ Tags
 
