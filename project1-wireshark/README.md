@@ -104,7 +104,7 @@ Key Observations
 
 📂 Project Structure
 
-\`\`\`
+```
 project1-wireshark/
 ├── README.md
 └── screenshots/
@@ -112,7 +112,7 @@ project1-wireshark/
     ├── arp.png
     ├── tcp.png
     └── dns.png
-\`\`\`
+```
 
 
 
